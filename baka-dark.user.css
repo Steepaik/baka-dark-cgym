@@ -11,7 +11,7 @@
 @var            text button-color      "Button color"      #111
 ==/UserStyle== */
 
-@-moz-document domain("baka.spselitdobruska.cz") {
+@-moz-document domain("cgym-kh.bakalari.cz") {
   .simplebar-content ul li a, .simplebar-content .bk-menu-empty, .simplebar-content .bk-menu-logo, .simplebar-content .bk-menu-hide, .bk-navtop, .bk-menu-logo, #topheader {
     background: bar-color !important;
   }
