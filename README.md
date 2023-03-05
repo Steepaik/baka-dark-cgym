@@ -6,7 +6,9 @@
  - Chrome, Brave - [https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
  - Firefox - [https://addons.mozilla.org/cs/firefox/addon/styl-us/](https://addons.mozilla.org/cs/firefox/addon/styl-us/)
  - Opera - [https://addons.opera.com/cs/extensions/details/stylus/](https://addons.opera.com/cs/extensions/details/stylus/)
- 
+
+## Je doporučeno používat rozšíření Dark Reader nastavený na "Dynamic" společně s tímto stylem.
+
 ## Zahrnuté adresy škol
  - SPŠ el-it Dobruška - [cgym-kh.bakalari.cz](https://cgym-kh.bakalari.cz/login)
  
